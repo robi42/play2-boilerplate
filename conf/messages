@@ -1,0 +1,5 @@
+app.name = Play 2 Boilerplate
+meta.description = This is a Play 2 app template
+welcome.subtitle = Your new application is ready.
+home.heading = Heading Foo
+home.learnMore = Learn more

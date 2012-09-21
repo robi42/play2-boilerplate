@@ -1,0 +1,19 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           controllers.Application.index
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)
+
+# Apple touch icon aliases for Android, legacy iOS, and other devices
+#GET     /apple-touch-icon-precomposed.png  controllers.Assets.at(path="/public/images", file="apple-touch-icon-57-precomposed.png")
+#GET     /apple-touch-icon.png              controllers.Assets.at(path="/public/images", file="apple-touch-icon-57-precomposed.png")
+
+# Handle /humans.txt
+#GET     /humans.txt               controllers.Assets.at(path="/public", file="humans.txt")
+
+# Handle /robots.txt
+#GET     /robots.txt               controllers.Assets.at(path="/public", file="robots.txt")

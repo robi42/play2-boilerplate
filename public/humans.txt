@@ -1,0 +1,44 @@
+/* The humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Location: Vienna, Austria
+
+  DevOps:  Robert Thurnher
+  Site:    robert42.com
+  Twitter: @robi42
+
+/* THANKS */
+  Everyone who's contributed to making this happen in one way or another.
+
+/* SITE */
+  Standards:  HTML5, CSS3, contemporary JS :)
+  Components: Twitter's Bootstrap, Backbone.js
+  Software:   Play 2.0, MySQL, CoffeScript, LESS
+
+
+
+                               -o/-
+                               +oo//-
+                              :ooo+//:
+                             -ooooo///-
+                             /oooooo//:
+                            :ooooooo+//-
+                           -+oooooooo///-
+           -://////////////+oooooooooo++////////////::
+            :+ooooooooooooooooooooooooooooooooooooo+:::-
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-
+                     -:+ooooooooooooooooo+:://////:--
+                       /ooooooooooooooooo+//////:-
+                      -ooooooooooooooooooo////-
+                      /ooooooooo+oooooooooo//:
+                     :ooooooo+/::/+oooooooo+//-
+                    -oooooo/::///////+oooooo///-
+                    /ooo+::://////:---:/+oooo//:
+                   -o+/::///////:-      -:/+o+//-
+                   :-:///////:-            -:/://
+                     -////:-                 --//:
+                       --                       -:
