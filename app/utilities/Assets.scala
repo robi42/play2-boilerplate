@@ -46,8 +46,8 @@ object Assets {
   def gzip(filename: String, content: String) {
     val gzipper = new GZIPOutputStream(new FileOutputStream(filename))
     gzipper write content.getBytes(UTF_8)
-    gzipper.finish
-    gzipper.close
+    gzipper.finish()
+    gzipper.close()
   }
 
 }
