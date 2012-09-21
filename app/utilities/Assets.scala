@@ -19,7 +19,7 @@ object Assets {
     else path
   }
 
-  def bundleJs = {
+  def bundleJs() {
     val path = new File("./public/javascripts").getCanonicalPath
     val bundleConfFilename = new File("./conf/jsBundle").getCanonicalPath
 
